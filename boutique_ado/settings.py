@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-qrhpk!2t8jvfp&u)$4!#2@5rc3g_dduw91_j&(h!hc#esi&f07
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-yasminebb-boutiqueadov1-6jstgslvn0s.ws-eu107.gitpod.io']
+ALLOWED_HOSTS = ['8000-yasminebb-boutiqueadov1-6jstgslvn0s.ws-eu108.gitpod.io']
 
 
 # Application definition
